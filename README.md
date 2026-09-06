@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/2k25csai2513893-source/dsa/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/2k25csai2513893-source/dsa/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/2k25csai2513893-source/dsa/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/2k25csai2513893-source/dsa/tree/master/0342-power-of-four) |
