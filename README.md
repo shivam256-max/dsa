@@ -81,6 +81,7 @@
 | [0260-single-number-iii](https://github.com/2k25csai2513893-source/dsa/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/0410-split-array-largest-sum) |
 | [0500-keyboard-row](https://github.com/2k25csai2513893-source/dsa/tree/master/0500-keyboard-row) |
+| [0724-find-pivot-index](https://github.com/2k25csai2513893-source/dsa/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/2k25csai2513893-source/dsa/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/2k25csai2513893-source/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2k25csai2513893-source/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/2k25csai2513893-source/dsa/tree/master/0724-find-pivot-index) |
 | [1310-xor-queries-of-a-subarray](https://github.com/2k25csai2513893-source/dsa/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2k25csai2513893-source/dsa/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2438-range-product-queries-of-powers](https://github.com/2k25csai2513893-source/dsa/tree/master/2438-range-product-queries-of-powers) |
