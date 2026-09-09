@@ -94,6 +94,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/2k25csai2513893-source/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/2k25csai2513893-source/dsa/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1991-find-the-middle-index-in-array](https://github.com/2k25csai2513893-source/dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2438-range-product-queries-of-powers](https://github.com/2k25csai2513893-source/dsa/tree/master/2438-range-product-queries-of-powers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/2k25csai2513893-source/dsa/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -165,6 +166,7 @@
 | [0724-find-pivot-index](https://github.com/2k25csai2513893-source/dsa/tree/master/0724-find-pivot-index) |
 | [1310-xor-queries-of-a-subarray](https://github.com/2k25csai2513893-source/dsa/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2k25csai2513893-source/dsa/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1991-find-the-middle-index-in-array](https://github.com/2k25csai2513893-source/dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2438-range-product-queries-of-powers](https://github.com/2k25csai2513893-source/dsa/tree/master/2438-range-product-queries-of-powers) |
 | [3903-smallest-stable-index-i](https://github.com/2k25csai2513893-source/dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/3904-smallest-stable-index-ii) |
