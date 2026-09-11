@@ -66,6 +66,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/2k25csai2513893-source/dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/2k25csai2513893-source/dsa/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2438-range-product-queries-of-powers](https://github.com/2k25csai2513893-source/dsa/tree/master/2438-range-product-queries-of-powers) |
 | [2595-number-of-even-and-odd-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -102,6 +103,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k25csai2513893-source/dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/2k25csai2513893-source/dsa/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2438-range-product-queries-of-powers](https://github.com/2k25csai2513893-source/dsa/tree/master/2438-range-product-queries-of-powers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/2k25csai2513893-source/dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -226,4 +228,8 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/2k25csai2513893-source/dsa/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
