@@ -56,6 +56,7 @@
 | [0461-hamming-distance](https://github.com/2k25csai2513893-source/dsa/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/2k25csai2513893-source/dsa/tree/master/0476-number-complement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2k25csai2513893-source/dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/2k25csai2513893-source/dsa/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/2k25csai2513893-source/dsa/tree/master/1009-complement-of-base-10-integer) |
 | [1310-xor-queries-of-a-subarray](https://github.com/2k25csai2513893-source/dsa/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/2k25csai2513893-source/dsa/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -83,6 +84,7 @@
 | [0410-split-array-largest-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/0410-split-array-largest-sum) |
 | [0500-keyboard-row](https://github.com/2k25csai2513893-source/dsa/tree/master/0500-keyboard-row) |
 | [0724-find-pivot-index](https://github.com/2k25csai2513893-source/dsa/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/2k25csai2513893-source/dsa/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/2k25csai2513893-source/dsa/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/2k25csai2513893-source/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2k25csai2513893-source/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -135,6 +137,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/2k25csai2513893-source/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25csai2513893-source/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0832-flipping-an-image](https://github.com/2k25csai2513893-source/dsa/tree/master/0832-flipping-an-image) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/2k25csai2513893-source/dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Greedy
@@ -148,6 +151,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/2k25csai2513893-source/dsa/tree/master/0832-flipping-an-image) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/2k25csai2513893-source/dsa/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Sorting
 |  |
@@ -183,6 +187,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/2k25csai2513893-source/dsa/tree/master/0832-flipping-an-image) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/2k25csai2513893-source/dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3959-check-good-integer](https://github.com/2k25csai2513893-source/dsa/tree/master/3959-check-good-integer) |
 ## String
