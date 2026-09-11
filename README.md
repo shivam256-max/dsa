@@ -70,6 +70,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/2k25csai2513893-source/dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/2k25csai2513893-source/dsa/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2438-range-product-queries-of-powers](https://github.com/2k25csai2513893-source/dsa/tree/master/2438-range-product-queries-of-powers) |
+| [2568-minimum-impossible-or](https://github.com/2k25csai2513893-source/dsa/tree/master/2568-minimum-impossible-or) |
 | [2595-number-of-even-and-odd-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -109,6 +110,7 @@
 | [2425-bitwise-xor-of-all-pairings](https://github.com/2k25csai2513893-source/dsa/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2438-range-product-queries-of-powers](https://github.com/2k25csai2513893-source/dsa/tree/master/2438-range-product-queries-of-powers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/2k25csai2513893-source/dsa/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2568-minimum-impossible-or](https://github.com/2k25csai2513893-source/dsa/tree/master/2568-minimum-impossible-or) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/2k25csai2513893-source/dsa/tree/master/2670-find-the-distinct-difference-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -235,4 +237,5 @@
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/2k25csai2513893-source/dsa/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2568-minimum-impossible-or](https://github.com/2k25csai2513893-source/dsa/tree/master/2568-minimum-impossible-or) |
 <!---LeetCode Topics End-->
