@@ -51,6 +51,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/2k25csai2513893-source/dsa/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/2k25csai2513893-source/dsa/tree/master/0231-power-of-two) |
@@ -85,6 +86,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2k25csai2513893-source/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25csai2513893-source/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -230,6 +232,7 @@
 | [0039-combination-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/2k25csai2513893-source/dsa/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
