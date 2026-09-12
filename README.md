@@ -112,6 +112,7 @@
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/2k25csai2513893-source/dsa/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k25csai2513893-source/dsa/tree/master/1991-find-the-middle-index-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/2k25csai2513893-source/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/2k25csai2513893-source/dsa/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2438-range-product-queries-of-powers](https://github.com/2k25csai2513893-source/dsa/tree/master/2438-range-product-queries-of-powers) |
@@ -155,6 +156,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/2k25csai2513893-source/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25csai2513893-source/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/2k25csai2513893-source/dsa/tree/master/0832-flipping-an-image) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/2k25csai2513893-source/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/2k25csai2513893-source/dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Greedy
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/2k25csai2513893-source/dsa/tree/master/0832-flipping-an-image) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/2k25csai2513893-source/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/2k25csai2513893-source/dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3959-check-good-integer](https://github.com/2k25csai2513893-source/dsa/tree/master/3959-check-good-integer) |
 ## String
