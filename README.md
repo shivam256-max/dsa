@@ -15,6 +15,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/2k25csai2513893-source/dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/2k25csai2513893-source/dsa/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/2k25csai2513893-source/dsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/2k25csai2513893-source/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/2k25csai2513893-source/dsa/tree/master/3870-count-commas-in-range) |
@@ -111,6 +112,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/2k25csai2513893-source/dsa/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2438-range-product-queries-of-powers](https://github.com/2k25csai2513893-source/dsa/tree/master/2438-range-product-queries-of-powers) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/2k25csai2513893-source/dsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/2k25csai2513893-source/dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2568-minimum-impossible-or](https://github.com/2k25csai2513893-source/dsa/tree/master/2568-minimum-impossible-or) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
