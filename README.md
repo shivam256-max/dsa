@@ -155,6 +155,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/2k25csai2513893-source/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25csai2513893-source/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/2k25csai2513893-source/dsa/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/2k25csai2513893-source/dsa/tree/master/0832-flipping-an-image) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/2k25csai2513893-source/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -182,6 +183,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/2k25csai2513893-source/dsa/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
@@ -213,6 +215,7 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/2k25csai2513893-source/dsa/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/2k25csai2513893-source/dsa/tree/master/0500-keyboard-row) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2k25csai2513893-source/dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
