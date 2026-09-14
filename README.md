@@ -10,6 +10,7 @@
 | [0326-power-of-three](https://github.com/2k25csai2513893-source/dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/2k25csai2513893-source/dsa/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2k25csai2513893-source/dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/2k25csai2513893-source/dsa/tree/master/0836-rectangle-overlap) |
 | [1323-maximum-69-number](https://github.com/2k25csai2513893-source/dsa/tree/master/1323-maximum-69-number) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2k25csai2513893-source/dsa/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/2k25csai2513893-source/dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -255,4 +256,8 @@
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/2k25csai2513893-source/dsa/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2568-minimum-impossible-or](https://github.com/2k25csai2513893-source/dsa/tree/master/2568-minimum-impossible-or) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/2k25csai2513893-source/dsa/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
