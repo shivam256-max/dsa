@@ -89,6 +89,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2k25csai2513893-source/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -180,6 +181,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0047-permutations-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1552-magnetic-force-between-two-balls](https://github.com/2k25csai2513893-source/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -241,6 +243,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/2k25csai2513893-source/dsa/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
