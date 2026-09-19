@@ -73,6 +73,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/2k25csai2513893-source/dsa/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/2k25csai2513893-source/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/2k25csai2513893-source/dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/2k25csai2513893-source/dsa/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2438-range-product-queries-of-powers](https://github.com/2k25csai2513893-source/dsa/tree/master/2438-range-product-queries-of-powers) |
@@ -117,6 +118,7 @@
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/2k25csai2513893-source/dsa/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k25csai2513893-source/dsa/tree/master/1991-find-the-middle-index-in-array) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/2k25csai2513893-source/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/2k25csai2513893-source/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/2k25csai2513893-source/dsa/tree/master/2418-sort-the-people) |
@@ -256,6 +258,7 @@
 | [0077-combinations](https://github.com/2k25csai2513893-source/dsa/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/2k25csai2513893-source/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
 |  |
 | ------- |
@@ -264,6 +267,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/2k25csai2513893-source/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
 | ------- |
