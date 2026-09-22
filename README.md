@@ -233,6 +233,7 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/2k25csai2513893-source/dsa/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/2k25csai2513893-source/dsa/tree/master/0500-keyboard-row) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2k25csai2513893-source/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/2k25csai2513893-source/dsa/tree/master/1544-make-the-string-great) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2k25csai2513893-source/dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2k25csai2513893-source/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2k25csai2513893-source/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/2k25csai2513893-source/dsa/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/2k25csai2513893-source/dsa/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/2k25csai2513893-source/dsa/tree/master/3174-clear-digits) |
