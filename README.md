@@ -257,6 +257,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2k25csai2513893-source/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/2k25csai2513893-source/dsa/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2k25csai2513893-source/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/2k25csai2513893-source/dsa/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/2k25csai2513893-source/dsa/tree/master/2000-reverse-prefix-of-word) |
@@ -290,4 +291,8 @@
 | ------- |
 | [0223-rectangle-area](https://github.com/2k25csai2513893-source/dsa/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/2k25csai2513893-source/dsa/tree/master/0836-rectangle-overlap) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/2k25csai2513893-source/dsa/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
