@@ -19,6 +19,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/2k25csai2513893-source/dsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2k25csai2513893-source/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/2k25csai2513893-source/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/2k25csai2513893-source/dsa/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/3871-count-commas-in-range-ii) |
@@ -135,6 +136,7 @@
 | [3151-special-array-i](https://github.com/2k25csai2513893-source/dsa/tree/master/3151-special-array-i) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/2k25csai2513893-source/dsa/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/2k25csai2513893-source/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2k25csai2513893-source/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/2k25csai2513893-source/dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/2k25csai2513893-source/dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/2k25csai2513893-source/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
