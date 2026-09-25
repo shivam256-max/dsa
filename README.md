@@ -111,6 +111,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/2k25csai2513893-source/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/2k25csai2513893-source/dsa/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1441-build-an-array-with-stack-operations](https://github.com/2k25csai2513893-source/dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2k25csai2513893-source/dsa/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/2k25csai2513893-source/dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/2k25csai2513893-source/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -226,6 +227,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/2k25csai2513893-source/dsa/tree/master/0832-flipping-an-image) |
+| [1441-build-an-array-with-stack-operations](https://github.com/2k25csai2513893-source/dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/2k25csai2513893-source/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3174-clear-digits](https://github.com/2k25csai2513893-source/dsa/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/2k25csai2513893-source/dsa/tree/master/3498-reverse-degree-of-a-string) |
@@ -262,6 +264,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/2k25csai2513893-source/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/2k25csai2513893-source/dsa/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2k25csai2513893-source/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/2k25csai2513893-source/dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/2k25csai2513893-source/dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/2k25csai2513893-source/dsa/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/2k25csai2513893-source/dsa/tree/master/2000-reverse-prefix-of-word) |
