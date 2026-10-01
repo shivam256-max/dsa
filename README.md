@@ -236,6 +236,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/2k25csai2513893-source/dsa/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/2k25csai2513893-source/dsa/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/2k25csai2513893-source/dsa/tree/master/0500-keyboard-row) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2k25csai2513893-source/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -261,6 +262,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/2k25csai2513893-source/dsa/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2k25csai2513893-source/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/2k25csai2513893-source/dsa/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2k25csai2513893-source/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -306,4 +308,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/2k25csai2513893-source/dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2k25csai2513893-source/dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
