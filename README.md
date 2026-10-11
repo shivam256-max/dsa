@@ -132,6 +132,7 @@
 | [2568-minimum-impossible-or](https://github.com/2k25csai2513893-source/dsa/tree/master/2568-minimum-impossible-or) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/2k25csai2513893-source/dsa/tree/master/2670-find-the-distinct-difference-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/2k25csai2513893-source/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/2k25csai2513893-source/dsa/tree/master/2942-find-words-containing-character) |
 | [3151-special-array-i](https://github.com/2k25csai2513893-source/dsa/tree/master/3151-special-array-i) |
@@ -290,6 +291,7 @@
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/2k25csai2513893-source/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/2k25csai2513893-source/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Brainteaser
 |  |
 | ------- |
