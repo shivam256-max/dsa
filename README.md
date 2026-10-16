@@ -254,6 +254,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2k25csai2513893-source/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2k25csai2513893-source/dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/2k25csai2513893-source/dsa/tree/master/2000-reverse-prefix-of-word) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/2k25csai2513893-source/dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/2k25csai2513893-source/dsa/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/2k25csai2513893-source/dsa/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/2k25csai2513893-source/dsa/tree/master/3174-clear-digits) |
@@ -337,4 +338,5 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2k25csai2513893-source/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/2k25csai2513893-source/dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
