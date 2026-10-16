@@ -18,6 +18,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/2k25csai2513893-source/dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/2k25csai2513893-source/dsa/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/2k25csai2513893-source/dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/2k25csai2513893-source/dsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2k25csai2513893-source/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -254,6 +255,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2k25csai2513893-source/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2k25csai2513893-source/dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/2k25csai2513893-source/dsa/tree/master/2000-reverse-prefix-of-word) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/2k25csai2513893-source/dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/2k25csai2513893-source/dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/2k25csai2513893-source/dsa/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/2k25csai2513893-source/dsa/tree/master/2942-find-words-containing-character) |
@@ -338,5 +340,6 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2k25csai2513893-source/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/2k25csai2513893-source/dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/2k25csai2513893-source/dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
