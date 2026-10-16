@@ -10,6 +10,7 @@
 | [0231-power-of-two](https://github.com/2k25csai2513893-source/dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/2k25csai2513893-source/dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/2k25csai2513893-source/dsa/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/2k25csai2513893-source/dsa/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2k25csai2513893-source/dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/2k25csai2513893-source/dsa/tree/master/0836-rectangle-overlap) |
 | [1323-maximum-69-number](https://github.com/2k25csai2513893-source/dsa/tree/master/1323-maximum-69-number) |
@@ -229,6 +230,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/2k25csai2513893-source/dsa/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/2k25csai2513893-source/dsa/tree/master/0832-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/2k25csai2513893-source/dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/2k25csai2513893-source/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -241,6 +243,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k25csai2513893-source/dsa/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/2k25csai2513893-source/dsa/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/2k25csai2513893-source/dsa/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/2k25csai2513893-source/dsa/tree/master/0500-keyboard-row) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2k25csai2513893-source/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/2k25csai2513893-source/dsa/tree/master/1544-make-the-string-great) |
