@@ -129,6 +129,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/2k25csai2513893-source/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/2k25csai2513893-source/dsa/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2418-sort-the-people](https://github.com/2k25csai2513893-source/dsa/tree/master/2418-sort-the-people) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/2k25csai2513893-source/dsa/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2438-range-product-queries-of-powers](https://github.com/2k25csai2513893-source/dsa/tree/master/2438-range-product-queries-of-powers) |
@@ -289,6 +290,7 @@
 | [1544-make-the-string-great](https://github.com/2k25csai2513893-source/dsa/tree/master/1544-make-the-string-great) |
 | [1856-maximum-subarray-min-product](https://github.com/2k25csai2513893-source/dsa/tree/master/1856-maximum-subarray-min-product) |
 | [2000-reverse-prefix-of-word](https://github.com/2k25csai2513893-source/dsa/tree/master/2000-reverse-prefix-of-word) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/2k25csai2513893-source/dsa/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [3174-clear-digits](https://github.com/2k25csai2513893-source/dsa/tree/master/3174-clear-digits) |
 ## Backtracking
 |  |
@@ -330,6 +332,7 @@
 | [0739-daily-temperatures](https://github.com/2k25csai2513893-source/dsa/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/2k25csai2513893-source/dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1856-maximum-subarray-min-product](https://github.com/2k25csai2513893-source/dsa/tree/master/1856-maximum-subarray-min-product) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/2k25csai2513893-source/dsa/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -352,4 +355,8 @@
 |  |
 | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/2k25csai2513893-source/dsa/tree/master/1856-maximum-subarray-min-product) |
+## Union-Find
+|  |
+| ------- |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/2k25csai2513893-source/dsa/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 <!---LeetCode Topics End-->
