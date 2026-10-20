@@ -122,6 +122,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/2k25csai2513893-source/dsa/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/2k25csai2513893-source/dsa/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1856-maximum-subarray-min-product](https://github.com/2k25csai2513893-source/dsa/tree/master/1856-maximum-subarray-min-product) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k25csai2513893-source/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k25csai2513893-source/dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/2k25csai2513893-source/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -219,6 +220,7 @@
 | [0724-find-pivot-index](https://github.com/2k25csai2513893-source/dsa/tree/master/0724-find-pivot-index) |
 | [1310-xor-queries-of-a-subarray](https://github.com/2k25csai2513893-source/dsa/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2k25csai2513893-source/dsa/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1856-maximum-subarray-min-product](https://github.com/2k25csai2513893-source/dsa/tree/master/1856-maximum-subarray-min-product) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k25csai2513893-source/dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2438-range-product-queries-of-powers](https://github.com/2k25csai2513893-source/dsa/tree/master/2438-range-product-queries-of-powers) |
 | [3903-smallest-stable-index-i](https://github.com/2k25csai2513893-source/dsa/tree/master/3903-smallest-stable-index-i) |
@@ -285,6 +287,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/2k25csai2513893-source/dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/2k25csai2513893-source/dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/2k25csai2513893-source/dsa/tree/master/1544-make-the-string-great) |
+| [1856-maximum-subarray-min-product](https://github.com/2k25csai2513893-source/dsa/tree/master/1856-maximum-subarray-min-product) |
 | [2000-reverse-prefix-of-word](https://github.com/2k25csai2513893-source/dsa/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/2k25csai2513893-source/dsa/tree/master/3174-clear-digits) |
 ## Backtracking
@@ -326,6 +329,7 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/2k25csai2513893-source/dsa/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/2k25csai2513893-source/dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1856-maximum-subarray-min-product](https://github.com/2k25csai2513893-source/dsa/tree/master/1856-maximum-subarray-min-product) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -344,4 +348,8 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2k25csai2513893-source/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/2k25csai2513893-source/dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/2k25csai2513893-source/dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/2k25csai2513893-source/dsa/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
