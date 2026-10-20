@@ -126,6 +126,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/2k25csai2513893-source/dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/2k25csai2513893-source/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/2k25csai2513893-source/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/2k25csai2513893-source/dsa/tree/master/2418-sort-the-people) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/2k25csai2513893-source/dsa/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -162,6 +163,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2k25csai2513893-source/dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2k25csai2513893-source/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2k25csai2513893-source/dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/2k25csai2513893-source/dsa/tree/master/2418-sort-the-people) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/2k25csai2513893-source/dsa/tree/master/2670-find-the-distinct-difference-array) |
