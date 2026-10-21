@@ -128,6 +128,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/2k25csai2513893-source/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/2k25csai2513893-source/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2270-number-of-ways-to-split-array](https://github.com/2k25csai2513893-source/dsa/tree/master/2270-number-of-ways-to-split-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/2k25csai2513893-source/dsa/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2418-sort-the-people](https://github.com/2k25csai2513893-source/dsa/tree/master/2418-sort-the-people) |
@@ -223,6 +224,7 @@
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2k25csai2513893-source/dsa/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1856-maximum-subarray-min-product](https://github.com/2k25csai2513893-source/dsa/tree/master/1856-maximum-subarray-min-product) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k25csai2513893-source/dsa/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/2k25csai2513893-source/dsa/tree/master/2270-number-of-ways-to-split-array) |
 | [2438-range-product-queries-of-powers](https://github.com/2k25csai2513893-source/dsa/tree/master/2438-range-product-queries-of-powers) |
 | [3903-smallest-stable-index-i](https://github.com/2k25csai2513893-source/dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/3904-smallest-stable-index-ii) |
