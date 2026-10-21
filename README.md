@@ -114,6 +114,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/2k25csai2513893-source/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/2k25csai2513893-source/dsa/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/2k25csai2513893-source/dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2k25csai2513893-source/dsa/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/2k25csai2513893-source/dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -221,6 +222,7 @@
 | [0410-split-array-largest-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/2k25csai2513893-source/dsa/tree/master/0724-find-pivot-index) |
 | [1310-xor-queries-of-a-subarray](https://github.com/2k25csai2513893-source/dsa/tree/master/1310-xor-queries-of-a-subarray) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2k25csai2513893-source/dsa/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1856-maximum-subarray-min-product](https://github.com/2k25csai2513893-source/dsa/tree/master/1856-maximum-subarray-min-product) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k25csai2513893-source/dsa/tree/master/1991-find-the-middle-index-in-array) |
