@@ -41,6 +41,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2k25csai2513893-source/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/2k25csai2513893-source/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/2k25csai2513893-source/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2k25csai2513893-source/dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/2k25csai2513893-source/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/2k25csai2513893-source/dsa/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -119,6 +120,7 @@
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2k25csai2513893-source/dsa/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/2k25csai2513893-source/dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/2k25csai2513893-source/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2k25csai2513893-source/dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/2k25csai2513893-source/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/2k25csai2513893-source/dsa/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -185,6 +187,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25csai2513893-source/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/2k25csai2513893-source/dsa/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/2k25csai2513893-source/dsa/tree/master/0832-flipping-an-image) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2k25csai2513893-source/dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2000-reverse-prefix-of-word](https://github.com/2k25csai2513893-source/dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/2k25csai2513893-source/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -207,6 +210,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0047-permutations-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2k25csai2513893-source/dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/2k25csai2513893-source/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/2k25csai2513893-source/dsa/tree/master/2418-sort-the-people) |
