@@ -108,6 +108,7 @@
 | [0739-daily-temperatures](https://github.com/2k25csai2513893-source/dsa/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/2k25csai2513893-source/dsa/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/2k25csai2513893-source/dsa/tree/master/0875-koko-eating-bananas) |
+| [0922-sort-array-by-parity-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/2k25csai2513893-source/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2k25csai2513893-source/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/2k25csai2513893-source/dsa/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -187,6 +188,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25csai2513893-source/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/2k25csai2513893-source/dsa/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/2k25csai2513893-source/dsa/tree/master/0832-flipping-an-image) |
+| [0922-sort-array-by-parity-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2k25csai2513893-source/dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2000-reverse-prefix-of-word](https://github.com/2k25csai2513893-source/dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/2k25csai2513893-source/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0047-permutations-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2k25csai2513893-source/dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/2k25csai2513893-source/dsa/tree/master/1552-magnetic-force-between-two-balls) |
