@@ -180,10 +180,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/2k25csai2513893-source/dsa/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2k25csai2513893-source/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/2k25csai2513893-source/dsa/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2k25csai2513893-source/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25csai2513893-source/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/2k25csai2513893-source/dsa/tree/master/0392-is-subsequence) |
